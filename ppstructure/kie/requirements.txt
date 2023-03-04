@@ -1,0 +1,6 @@
+sentencepiece
+yacs
+seqeval
+pypandoc
+attrdict
+python_docx
