@@ -41,7 +41,7 @@ Optimizer:
     warmup_epoch: 10
   regularizer:
     name: L2
-    factor: 0.00000
+    factor: 0.00001
     
 PostProcess:
   name: VQAReTokenLayoutLMPostProcess
